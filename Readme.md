@@ -20,12 +20,17 @@ Even thought the PID values have been taken from the default configuration file,
 - [3dmakerengineering](https://www.3dmakerengineering.com/blogs/3d-printing/pid-tuning-marlin-firmware)
 - [Teaching Tech Github](https://teachingtechyt.github.io/calibration.html#intro)
 
+## My current config
+- Stock, no ABL
+- Will update as I go and create branches
+
 ---
 # **USE IT AT YOUR OWN RISK**
 ## I am not responsible for any 3D printer converted into a glorified paper weight!
 ---
 
 ## Compilation Instructions
+# **This is if you need to modify and recompile your firmware**
 
 ### Expert:
 
@@ -51,7 +56,3 @@ If you are new to that, you can:
 - Turn ON your printer.
 - It will update automatically.
 
-
-## My current config
-- Stock, no ABL
-- Will update as I go and create branches
