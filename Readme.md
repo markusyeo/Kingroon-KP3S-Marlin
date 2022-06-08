@@ -16,7 +16,7 @@ It uses the KP3S configuration from [Marlin/Configuration repo](https://github.c
 - Marlin Emulation mode (a.k.a. Modern UI) currently only supported with TFT35 screens, so TFT24 needs to use full TFT.
   
 Even thought the PID values have been taken from the default configuration file, I found out it is better to calibrate it yourself.
-**Calibration Sources
+# **Calibration Sources**
 - [3dmakerengineering](https://www.3dmakerengineering.com/blogs/3d-printing/pid-tuning-marlin-firmware)
 - [Teaching Tech Github](https://teachingtechyt.github.io/calibration.html#intro)
 
