@@ -1,6 +1,6 @@
 # Marlin Configuration for **Kingroon KP3S 3D Printer**
 
-This repository contains the **CONFIGURATION** files needed to
+This repository contains the **Configuration** files needed to
 compile your the MARLIN firmware for **Kingroon KP3S 3D Printer**.
 
 I have also included the **Robin_nano.bin** firmware files you can copy directly to your SD card to in
@@ -16,7 +16,7 @@ It uses the KP3S configuration from [Marlin/Configuration repo](https://github.c
 - Marlin Emulation mode (a.k.a. Modern UI) currently only supported with TFT35 screens, so TFT24 needs to use full TFT.
   
 Even thought the PID values have been taken from the default configuration file, I found out it is better to calibrate it yourself.
-# **Calibration Sources**
+## **Calibration Sources**
 - [3dmakerengineering](https://www.3dmakerengineering.com/blogs/3d-printing/pid-tuning-marlin-firmware)
 - [Teaching Tech Github](https://teachingtechyt.github.io/calibration.html#intro)
 
@@ -29,8 +29,8 @@ Even thought the PID values have been taken from the default configuration file,
 ## I am not responsible for any 3D printer converted into a glorified paper weight!
 ---
 
-## Compilation Instructions
-# **This is if you need to modify and recompile your firmware**
+# Compilation Instructions
+## This is if you need to modify and recompile your firmware
 
 ### Expert:
 
